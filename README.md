@@ -1,2 +1,1 @@
-# HTML-CSS----
-HTML-CSSの勉強用
+# HTML-CSSの勉強用
